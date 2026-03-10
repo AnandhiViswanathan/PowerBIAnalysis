@@ -11,7 +11,9 @@ The stacked bar chart helps users compare sales performance between countries wh
 _Business Value_:
 
 Identifies top-performing countries
+
 Shows product contribution to sales within each region
+
 Helps guide regional product strategies
 
 🌍 **Total Gross Sales by Country (Pie Chart – % Split)**
@@ -25,7 +27,9 @@ It provides a market share view of revenue distribution, making it easy to see w
 _Business Value_:
 
 Highlights key markets driving revenue
+
 Shows relative contribution of each country
+
 Helps identify regions with growth potential
 
 📈 **Total Profit by Segment with Year-on-Year Comparison**
@@ -38,7 +42,9 @@ The year-on-year comparison allows stakeholders to analyze profit trends, growth
 _Business Value:_
 
 Tracks segment profitability trends
+
 Identifies high-growth or declining segments
+
 Supports strategic investment decisions
 
 📦 **Total Units Sold by Products Over Time**
@@ -51,5 +57,7 @@ It highlights product demand trends and sales patterns over time, allowing busin
 _Business Value_:
 
 Identifies high-demand products
+
 Reveals seasonal sales patterns
+
 Supports inventory and supply planning
